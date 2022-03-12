@@ -89,7 +89,7 @@
     * ------------------------------------------------------ */
 
     var ssFinalCountdown = function() {
-        var countDownDate = new Date("Mar, 12, 2022 21:45:0").getTime();
+        var countDownDate = new Date("Mar, 19, 2022 20:00:0").getTime();
 
         // Update the count down every 1 second
         var x = setInterval(function() {
