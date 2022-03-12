@@ -108,7 +108,7 @@
 
           // Display the result in the element with id="demo"
           document.getElementById("days").innerHTML = days + "<span>day(s)</span>";
-          document.getElementById("hours").innerHTML = hours + "<span>hour</span>";
+          document.getElementById("hours").innerHTML = hours + "<span>H</span>";
           document.getElementById("minutes").innerHTML = minutes + "<span>M</span>";
           document.getElementById("seconds").innerHTML = seconds + "<span>S</span>";
 
